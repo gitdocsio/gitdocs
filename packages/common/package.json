@@ -1,0 +1,19 @@
+{
+  "name": "@gitdocsio/common",
+  "version": "0.0.0",
+  "description": "GitDocs - A tool for better, beautiful, and consistent documentation (@common)",
+  "author": "Qasim Soomro",
+  "homepage": "https://github.com/gitdocsio/gitdocs#readme",
+  "license": "MIT",
+  "main": "lib/common.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdocsio/gitdocs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gitdocsio/gitdocs/issues"
+  }
+}
