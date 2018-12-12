@@ -63,3 +63,6 @@ packages/**/*.js
 
 # next.js build output
 .next
+
+# TypeScript build output
+build/
